@@ -1,5 +1,5 @@
 applications:
-- name: ygbety-iot
+- name: 6v4dx4-iot
   buildpacks:
   - staticfile_buildpack
   memory: 30M
